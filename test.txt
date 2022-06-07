@@ -1,0 +1,2 @@
+curl -d '{"username":"jkalika","password":"ngena"}' -H 'Content-Type: application/json' http://localhost:8080/api/login
+curl -H "Authorization: Bearer b1094abc0-54a4-3eab-7213-877142c33fh3" http://localhost:8080/api/admin/user
